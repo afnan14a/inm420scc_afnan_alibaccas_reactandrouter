@@ -17,7 +17,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
       <nav>
-        <h1>Condominium Developments</h1>
+        <h1>ROYALX CONDOS</h1>
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/projects">Projects</Link>
